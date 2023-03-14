@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s[0:4]
+    a = s[0:3]
 
 
     return a
