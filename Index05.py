@@ -6,4 +6,8 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    if len(s)==5:
+        return True
+    
+    if len(s)>5 and len(s)<5:
+        return  False 
